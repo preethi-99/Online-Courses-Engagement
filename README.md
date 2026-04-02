@@ -60,7 +60,7 @@ AVERAGEX(
 
 ```
 
-##📊 Key Visualizations
+##📊 Key Visualization
 1. User Conversion Funnel
 
 Tracks user progression:
@@ -107,7 +107,7 @@ Add cohort analysis
 Track user behavior over time
 Build predictive model for churn/completion
 Deploy dashboard using Power BI Service
-👩‍💻 Author
+
 
 Preethi Ranganathan
 MS in Computer Science, George Mason University
