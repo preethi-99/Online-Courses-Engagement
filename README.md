@@ -58,6 +58,8 @@ AVERAGEX(
     cleaned_data[grade]
 )
 
+```
+
 ##📊 Key Visualizations
 1. User Conversion Funnel
 
