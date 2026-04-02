@@ -58,7 +58,7 @@ AVERAGEX(
     cleaned_data[grade]
 )
 
-📊 Key Visualizations
+##📊 Key Visualizations
 1. User Conversion Funnel
 
 Tracks user progression:
