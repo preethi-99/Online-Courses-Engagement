@@ -59,55 +59,95 @@ AVERAGEX(
 )
 
 ```
+## 📊 Key Visualizations
 
-##📊 Key Visualization
-1. User Conversion Funnel
-
-Tracks user progression:
+### 1. User Conversion Funnel
+Tracks user progression across stages:
 
 Registered → Viewed → Explored → Certified
-2. KPI Metrics
-Total Users (~641K)
-Completion Rate (~2.7%)
-Avg Grade of Certified Users (~84%)
-3. Engagement Comparison
 
-Analyzes behavioral differences:
+- Highlights drop-off at each stage
+- Helps identify where users disengage
 
-Certified users show significantly higher engagement (events)
-📈 Key Insights
-🔻 Massive drop-off in user journey
-Only ~2.7% of users complete the course
-📉 Biggest gap occurs between "Viewed" and "Explored"
-Indicates lack of deeper engagement
-📊 Certified users show significantly higher activity
-Strong correlation between engagement and completion
-🎯 High performance among completers (~84% avg grade)
-Suggests content is effective
-💡 Business Recommendations
-Improve early-stage engagement (post-registration experience)
-Introduce nudges or incentives to encourage exploration
-Optimize onboarding and content discovery
-Focus on retention rather than content redesign
-🧠 Key Learnings
-Importance of defining correct KPIs (avoiding misleading averages)
-Using DAX to create meaningful business metrics
-Combining Python (EDA) + Power BI (visualization) for end-to-end analysis
-Translating data into actionable insights
-📌 Project Outcome
+---
+
+### 2. KPI Metrics
+Key performance indicators derived from the dataset:
+
+- **Total Users:** ~641K  
+- **Completion Rate:** ~2.7%  
+- **Avg Grade (Certified Users):** ~84%
+
+---
+
+### 3. Engagement Comparison (Certified vs Non-Certified)
+Analyzes behavioral differences between user groups:
+
+- Certified users show **significantly higher engagement**
+- Metrics compared:
+  - Number of events
+  - Active days
+  - Chapters explored
+
+---
+
+## 📈 Key Insights
+
+- 🔻 **Massive drop-off in user journey**
+  - Only ~2.7% of users complete the course
+
+- 📉 **Largest drop occurs between "Viewed" → "Explored"**
+  - Indicates low deep engagement
+
+- 📊 **Engagement strongly correlates with completion**
+  - Certified users have significantly higher activity levels
+
+- 🎯 **High performance among completers (~84%)**
+  - Suggests content quality is not the issue
+
+---
+
+## 💡 Business Recommendations
+
+- Improve **early-stage engagement** after registration
+- Introduce **nudges/reminders** to encourage exploration
+- Optimize **content discovery and onboarding flow**
+- Focus on **retention strategies rather than content redesign**
+
+---
+
+## 🧠 Key Learnings
+
+- Importance of defining **correct KPIs** (avoiding misleading averages)
+- Using **DAX for business metrics** in Power BI
+- Combining **Python (EDA) + Power BI (visualization)** effectively
+- Translating raw data into **actionable insights**
+
+---
+
+## 📌 Project Outcome
 
 This project demonstrates:
 
-End-to-end data analysis workflow
-Dashboard design for business decision-making
-Ability to identify and explain user behavior patterns
+- End-to-end data analysis workflow  
+- Strong data storytelling and visualization  
+- Ability to identify user behavior patterns  
+- Business-oriented thinking with actionable insights  
 
-🚀 Future Improvements
-Add cohort analysis
-Track user behavior over time
-Build predictive model for churn/completion
-Deploy dashboard using Power BI Service
+---
 
+---
 
-Preethi Ranganathan
-MS in Computer Science, George Mason University
+## 🚀 Future Improvements
+
+- Add cohort analysis (user retention over time)
+- Build predictive model for course completion
+- Perform segmentation (user personas)
+- Deploy dashboard using Power BI Service
+
+---
+
+## 👩‍💻 Author
+
+Preethi Ranganathan  
+MS in Computer Science, George Mason University  
